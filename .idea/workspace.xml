@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5707f240-d5eb-4cfb-a69c-e83226751936" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson04/alchemy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson04/code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson04/init.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson04/insert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson04/select.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_level_2/lesson01/HW/HW_Python2_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_level_2/lesson01/HW/HW_Python2_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_level_2/lesson01/HW/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_level_2/lesson01/HW/client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_level_2/lesson01/HW/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_level_2/lesson01/HW/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_level_2/lesson01/HW/lib.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_level_2/lesson01/HW/lib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_level_2/lesson01/HW/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_level_2/lesson01/HW/server.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,70 +21,94 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Geekbrains$client.coverage" NAME="client Coverage Results" MODIFIED="1524064800823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2/lesson01/HW" />
-    <SUITE FILE_PATH="coverage/Geekbrains$insert.coverage" NAME="insert Coverage Results" MODIFIED="1524163375412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2/lesson04" />
-    <SUITE FILE_PATH="coverage/Geekbrains$openweather.coverage" NAME="openweather Coverage Results" MODIFIED="1522089473549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_1/lesson08/home_work" />
-    <SUITE FILE_PATH="coverage/Geekbrains$lib.coverage" NAME="lib Coverage Results" MODIFIED="1524070762724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2/lesson01/HW" />
-    <SUITE FILE_PATH="coverage/Geekbrains$select.coverage" NAME="select Coverage Results" MODIFIED="1524163641104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2/lesson04" />
-    <SUITE FILE_PATH="coverage/Geekbrains$init.coverage" NAME="init Coverage Results" MODIFIED="1524163373726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2/lesson04" />
     <SUITE FILE_PATH="coverage/Geekbrains$lesson02.coverage" NAME="lesson02 Coverage Results" MODIFIED="1522956104358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2/lesson02" />
     <SUITE FILE_PATH="coverage/Geekbrains$presence.coverage" NAME="presence Coverage Results" MODIFIED="1523984051339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2/lesson01/HW" />
+    <SUITE FILE_PATH="coverage/Geekbrains$client.coverage" NAME="client Coverage Results" MODIFIED="1524064800823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2/lesson01/HW" />
     <SUITE FILE_PATH="coverage/Geekbrains$Unittests_for_test_Ctest_test_3.coverage" NAME="Unittests for test.Ctest.test_3 Coverage Results" MODIFIED="1522351372431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2" />
     <SUITE FILE_PATH="coverage/Geekbrains$server__1_.coverage" NAME="server (1) Coverage Results" MODIFIED="1522352541209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2/lesson01" />
-    <SUITE FILE_PATH="coverage/Geekbrains$code.coverage" NAME="code Coverage Results" MODIFIED="1524158205948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2/lesson04" />
+    <SUITE FILE_PATH="coverage/Geekbrains$code.coverage" NAME="code Coverage Results" MODIFIED="1523561585556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2/lesson03" />
+    <SUITE FILE_PATH="coverage/Geekbrains$openweather.coverage" NAME="openweather Coverage Results" MODIFIED="1522089473549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_1/lesson08/home_work" />
     <SUITE FILE_PATH="coverage/Geekbrains$socket.coverage" NAME="socket Coverage Results" MODIFIED="1524063218784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
     <SUITE FILE_PATH="coverage/Geekbrains$server.coverage" NAME="server Coverage Results" MODIFIED="1524077897367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2/lesson01/HW" />
     <SUITE FILE_PATH="coverage/Geekbrains$client__1_.coverage" NAME="client (1) Coverage Results" MODIFIED="1522352553175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2/lesson01" />
+    <SUITE FILE_PATH="coverage/Geekbrains$lib.coverage" NAME="lib Coverage Results" MODIFIED="1524070762724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2/lesson01/HW" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Geekbrains" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="code.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_level_2/lesson04/code.py">
+      <file leaf-file-name="HW_Python2_01.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/HW_Python2_01.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+            <state relative-caret-position="390">
+              <caret line="26" column="85" lean-forward="true" selection-start-line="26" selection-start-column="85" selection-end-line="26" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#25#40#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="init.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_level_2/lesson04/init.py">
+      <file leaf-file-name="client.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/client.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+            <state relative-caret-position="195">
+              <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+              <folding>
+                <element signature="e#24#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="insert.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_level_2/lesson04/insert.py">
+      <file leaf-file-name="lib.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/lib.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="4" />
+            <state relative-caret-position="292">
+              <caret line="57" column="32" lean-forward="true" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="select.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_level_2/lesson04/select.py">
+      <file leaf-file-name="argparse.pyi" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/argparse.pyi">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="217">
+              <caret line="73" column="21" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="alchemy.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python_level_2/lesson04/alchemy.py">
+      <file leaf-file-name="socket.py" pinned="false" current-in-tab="false">
+        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/socket.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="232">
+              <caret line="201" column="25" lean-forward="true" selection-start-line="201" selection-start-column="25" selection-end-line="201" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hw05_hard.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_level_1/lesson05/home_work/hw05_hard.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#862#871#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -127,11 +152,6 @@
         <option value="$PROJECT_DIR$/Python_level_2/lesson01/HW/lib.py" />
         <option value="$PROJECT_DIR$/Python_level_2/lesson01/HW/server.py" />
         <option value="$PROJECT_DIR$/Python_level_2/lesson01/HW/HW_Python2_01.py" />
-        <option value="$PROJECT_DIR$/Python_level_2/lesson04/code.py" />
-        <option value="$PROJECT_DIR$/Python_level_2/lesson04/insert.py" />
-        <option value="$PROJECT_DIR$/Python_level_2/lesson04/init.py" />
-        <option value="$PROJECT_DIR$/Python_level_2/lesson04/select.py" />
-        <option value="$PROJECT_DIR$/Python_level_2/lesson04/alchemy.py" />
       </list>
     </option>
   </component>
@@ -165,10 +185,7 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <OptionsSetting value="false" id="Update" />
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -190,7 +207,14 @@
               <item name="Geekbrains" type="b2602c69:ProjectViewProjectNode" />
               <item name="Geekbrains" type="462c0819:PsiDirectoryNode" />
               <item name="Python_level_2" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson04" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Geekbrains" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Geekbrains" type="462c0819:PsiDirectoryNode" />
+              <item name="Python_level_2" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson01" type="462c0819:PsiDirectoryNode" />
+              <item name="HW" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -224,8 +248,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.select">
-    <configuration name="code" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.server">
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Geekbrains" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,18 +257,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_level_2/lesson04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_level_2/lesson01/HW" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_level_2/lesson04/code.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_level_2/lesson01/HW/client.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="init" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lib" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Geekbrains" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,18 +276,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_level_2/lesson04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_level_2/lesson01/HW" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_level_2/lesson04/init.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_level_2/lesson01/HW/lib.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="insert" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="presence" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Geekbrains" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -271,31 +295,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_level_2/lesson04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_level_2/lesson01/HW" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_level_2/lesson04/insert.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="select" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Geekbrains" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_level_2/lesson04" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_level_2/lesson04/select.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_level_2/lesson01/HW/pres.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -320,20 +325,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="socket" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Geekbrains" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/socket.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.server" />
-      <item itemvalue="Python.code" />
-      <item itemvalue="Python.init" />
-      <item itemvalue="Python.insert" />
-      <item itemvalue="Python.select" />
+      <item itemvalue="Python.client" />
+      <item itemvalue="Python.presence" />
+      <item itemvalue="Python.lib" />
+      <item itemvalue="Python.socket" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.select" />
-        <item itemvalue="Python.insert" />
-        <item itemvalue="Python.init" />
-        <item itemvalue="Python.code" />
         <item itemvalue="Python.server" />
+        <item itemvalue="Python.lib" />
+        <item itemvalue="Python.client" />
+        <item itemvalue="Python.socket" />
+        <item itemvalue="Python.presence" />
       </list>
     </recent_temporary>
   </component>
@@ -348,14 +372,6 @@
       <option name="presentableId" value="Default" />
       <updated>1521967420526</updated>
     </task>
-    <task id="LOCAL-00001" summary="HW_1 is done (кроме тестов)">
-      <created>1524078112217</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1524078112217</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -373,17 +389,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="675" height="1080" extended-state="6" />
+    <frame x="0" y="0" width="922" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.4949785" weight="0.32935324" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5121951" side_tool="true" weight="0.3366435" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4878049" visible="true" weight="0.3363184" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4878049" visible="true" weight="0.3363184" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32935324" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3283582" />
       <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.4978701" weight="0.3283582" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49925038" weight="0.28751975" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49925038" weight="0.28863636" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -406,8 +422,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="HW_1 is done (кроме тестов)" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW_1 is done (кроме тестов)" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -415,6 +430,41 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Python_level_1/lesson08/home_work/export_openweather.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_level_1/lesson08/home_work/app.id">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selection/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1665">
+          <caret line="111" column="8" selection-start-line="111" selection-start-column="8" selection-end-line="111" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/grab/document.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2175">
+          <caret line="145" column="8" selection-start-line="145" selection-start-column="8" selection-end-line="145" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/grab/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3585">
+          <caret line="239" column="8" selection-start-line="239" selection-start-column="8" selection-end-line="239" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Python_level_1/lesson08/home_work/openweather.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
@@ -662,10 +712,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/HW_Python2_01.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/argparse.pyi">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="85" lean-forward="true" selection-start-line="26" selection-start-column="85" selection-end-line="26" selection-end-column="85" />
+        <state relative-caret-position="217">
+          <caret line="73" column="21" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="e#24#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/lib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="57" column="32" lean-forward="true" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -679,68 +749,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/client.py">
+    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/HW_Python2_01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#24#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/lib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" column="32" lean-forward="true" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/argparse.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="73" column="21" selection-start-line="73" selection-start-column="21" selection-end-line="73" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson04/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson04/init.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson04/insert.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson04/select.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson04/alchemy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="390">
+          <caret line="26" column="85" lean-forward="true" selection-start-line="26" selection-start-column="85" selection-end-line="26" selection-end-column="85" />
         </state>
       </provider>
     </entry>
