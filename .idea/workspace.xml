@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5707f240-d5eb-4cfb-a69c-e83226751936" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Geekbrains.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Geekbrains.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_level_2/lesson01/HW/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_level_2/lesson01/HW/code.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,7 +57,7 @@
         <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/code.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+              <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -192,7 +189,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -338,6 +335,14 @@
       <option name="presentableId" value="Default" />
       <updated>1521967420526</updated>
     </task>
+    <task id="LOCAL-00001" summary="тест">
+      <created>1524150452282</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1524150452282</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -361,9 +366,9 @@
       <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.4949785" weight="0.32935324" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5121951" side_tool="true" weight="0.33613446" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3689168" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.36834735" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3283582" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4878049" visible="true" weight="0.33613446" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4878049" weight="0.33613446" />
       <window_info anchor="right" id="Coverage" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.4978701" weight="0.3277311" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49925038" weight="0.2284041" />
@@ -426,7 +431,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="тестовый коммит" />
-    <option name="LAST_COMMIT_MESSAGE" value="тестовый коммит" />
+    <MESSAGE value="тест" />
+    <option name="LAST_COMMIT_MESSAGE" value="тест" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -672,7 +678,7 @@
     <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/code.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
         </state>
       </provider>
     </entry>
