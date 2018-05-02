@@ -4,8 +4,48 @@
     <bookmark url="file://$PROJECT_DIR$/Python_level_2/lesson03/code.py" line="65" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5707f240-d5eb-4cfb-a69c-e83226751936" name="Default" comment="">
+    <list default="true" id="5707f240-d5eb-4cfb-a69c-e83226751936" name="Default" comment="lesson 2 HW">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson01/HW/HW.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/closure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/decor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/decor_without_param.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/lazy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/log.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/log_udp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/sample_decor_log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/slt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/udp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/with.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson03/12.04.2018.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson03/12.04.2018/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson03/12.04.2018/cls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson03/12.04.2018/cls_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson03/12.04.2018/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson03/12.04.2018/desc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson03/12.04.2018/desc_singleton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson03/12.04.2018/prop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson03/12.04.2018/slot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson03/12.04.2018/sockserv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson04/4.7z" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson04/4/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson04/4/alchemy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson04/4/d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson04/4/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson04/4/insert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson04/4/select.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson04/messages.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/Урок_02._Декораторы._Менеджеры_контекста.docx.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/Урок_03._ООП_%28продолжение%29._Дескрипторы._Метаклассы_%281%29.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_level_2/Урок_04._Базы_данных._SQLAlchemy_%281%29.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Заглушка" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Заглушка.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_level_2/lesson01/HW/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_level_2/lesson01/HW/code.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,29 +77,11 @@
       <file leaf-file-name="server.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
+            <state relative-caret-position="225">
               <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lib.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/lib.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="57" column="32" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#24#39#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="code.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/code.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -76,12 +98,34 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="lib.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/lib.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="57" column="32" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="code.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/code.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file leaf-file-name="closure.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/closure.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="decor.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="with.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/with.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="decor.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/decor.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -379,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1525259388282</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lesson 2 HW">
+      <created>1525262336070</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1525262336070</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -387,7 +438,7 @@
       <configuration name="Unittests for test.Ctest.test_3" configurationId="tests" />
     </history-entry>
   </component>
-  <component name="TodoView">
+  <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -397,7 +448,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="661" height="1080" extended-state="6" />
+    <frame x="0" y="0" width="737" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.4949785" weight="0.32935324" />
@@ -410,6 +461,7 @@
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49925038" weight="0.2284041" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.50074965" side_tool="true" weight="0.28863636" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -420,7 +472,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Coverage" order="3" side_tool="true" />
     </layout>
   </component>
@@ -478,13 +529,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python_level_1/lesson08/home_work/export_openweather.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python_level_1/lesson08/home_work/app.id">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -665,27 +709,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/lazy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/decor_without_param.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/decor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/closure.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/with.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="225">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#24#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/lib.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
+        <state relative-caret-position="15">
           <caret line="57" column="32" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/code.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -699,25 +762,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/closure.py">
+    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/code.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/decor_without_param.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/lazy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/decor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
     </entry>
   </component>
 </project>
