@@ -3,6 +3,7 @@ import socket
 import time
 import re
 import argparse
+import logging
 
 
 class CBase:

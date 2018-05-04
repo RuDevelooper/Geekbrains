@@ -4,48 +4,11 @@
     <bookmark url="file://$PROJECT_DIR$/Python_level_2/lesson03/code.py" line="65" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5707f240-d5eb-4cfb-a69c-e83226751936" name="Default" comment="lesson 2 HW">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson01/HW/HW.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/closure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/decor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/decor_without_param.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/lazy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/log.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/log.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/log_udp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/sample_decor_log.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/slt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/udp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/with.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson03/12.04.2018.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson03/12.04.2018/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson03/12.04.2018/cls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson03/12.04.2018/cls_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson03/12.04.2018/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson03/12.04.2018/desc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson03/12.04.2018/desc_singleton.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson03/12.04.2018/prop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson03/12.04.2018/slot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson03/12.04.2018/sockserv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson04/4.7z" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson04/4/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson04/4/alchemy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson04/4/d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson04/4/init.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson04/4/insert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson04/4/select.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/lesson04/messages.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/Урок_02._Декораторы._Менеджеры_контекста.docx.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/Урок_03._ООП_%28продолжение%29._Дескрипторы._Метаклассы_%281%29.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_level_2/Урок_04._Базы_данных._SQLAlchemy_%281%29.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Заглушка" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Заглушка.zip" afterDir="false" />
+    <list default="true" id="5707f240-d5eb-4cfb-a69c-e83226751936" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_level_2/lesson01/HW/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_level_2/lesson01/HW/code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_level_2/lesson01/HW/HW_Python2_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_level_2/lesson01/HW/HW_Python2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_level_2/lesson01/HW/lib.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_level_2/lesson01/HW/lib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/log.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/log.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -90,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/client.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
               <folding>
                 <element signature="e#24#39#0" expanded="true" />
               </folding>
@@ -101,8 +64,8 @@
       <file leaf-file-name="lib.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/lib.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="57" column="32" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -110,9 +73,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="code.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/code.py">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="HW_Python2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/HW_Python2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="478">
+              <caret line="37" column="62" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="62" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="closure.py" pinned="false" current-in-tab="false">
@@ -120,32 +87,47 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="with.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/with.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="decor.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/decor.py">
+      <file leaf-file-name="log.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/log.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="165">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+              <folding>
+                <element signature="e#24#38#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="decor_without_param.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/decor_without_param.py">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/logging/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="456" column="49" selection-start-line="456" selection-start-column="49" selection-end-line="456" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample_decor_log.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/sample_decor_log.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="lazy.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/lazy.py">
+      <file leaf-file-name="log_udp.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/log_udp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="e#24#38#0" expanded="true" />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="udp.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/udp.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -183,10 +165,12 @@
         <option value="$PROJECT_DIR$/Python_level_2/lesson01/HW/presence.py" />
         <option value="$PROJECT_DIR$/Python_level_2/lesson01/HW/pres.py" />
         <option value="$PROJECT_DIR$/Python_level_2/lesson01/HW/client.py" />
-        <option value="$PROJECT_DIR$/Python_level_2/lesson01/HW/lib.py" />
         <option value="$PROJECT_DIR$/Python_level_2/lesson01/HW/server.py" />
         <option value="$PROJECT_DIR$/Python_level_2/lesson01/HW/HW_Python2_01.py" />
         <option value="$PROJECT_DIR$/Python_level_2/lesson01/HW/code.py" />
+        <option value="$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/log.py" />
+        <option value="$PROJECT_DIR$/Python_level_2/lesson01/HW/HW_Python2.py" />
+        <option value="$PROJECT_DIR$/Python_level_2/lesson01/HW/lib.py" />
       </list>
     </option>
   </component>
@@ -227,38 +211,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Geekbrains" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Geekbrains" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Geekbrains" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Geekbrains" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_level_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Geekbrains" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Geekbrains" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_level_2" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Geekbrains" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Geekbrains" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_level_2" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson01" type="462c0819:PsiDirectoryNode" />
-              <item name="HW" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -430,7 +383,14 @@
       <option name="project" value="LOCAL" />
       <updated>1525262336070</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lesson 2 HW">
+      <created>1525265774868</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1525265774869</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -438,7 +398,7 @@
       <configuration name="Unittests for test.Ctest.test_3" configurationId="tests" />
     </history-entry>
   </component>
-  <component name="TodoView" selected-index="4">
+  <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -448,13 +408,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="737" height="1080" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="881" height="1080" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.4949785" weight="0.32935324" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5121951" side_tool="true" weight="0.33613446" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4878049" visible="true" weight="0.3353234" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4878049" weight="0.3353234" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3681592" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3283582" />
       <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.4978701" weight="0.3277311" />
@@ -529,37 +488,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python_level_1/lesson08/home_work/app.id">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="32" selection-start-column="32" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selection/base.py" />
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/grab/document.py" />
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/grab/base.py" />
-    <entry file="file://$PROJECT_DIR$/Python_level_1/lesson08/home_work/openweather.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_level_1/lesson08/home_work/export_openweather.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_level_1/lesson08/home_work/app.id">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="32" lean-forward="true" selection-start-column="32" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/selection/base.py" />
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/grab/document.py" />
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/grab/base.py" />
@@ -657,13 +585,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/lesson02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python_level_2/lesson03/code.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -695,13 +616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/HW_Python2_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="85" selection-start-line="26" selection-start-column="85" selection-end-line="26" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python_level_1/lesson05/home_work/hw05_hard.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -726,10 +640,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/closure.py">
+    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/code.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/2.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/with.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/lesson02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="108" column="26" selection-start-line="108" selection-start-column="26" selection-end-line="108" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/log_udp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#24#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/udp.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/sample_decor_log.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/closure.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/server.py">
@@ -742,28 +692,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/lib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="57" column="32" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/client.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
           <folding>
             <element signature="e#24#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/code.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/lib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="456" column="49" selection-start-line="456" selection-start-column="49" selection-end-line="456" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson02/05.04.2018/log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="e#24#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/HW_Python2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="37" column="62" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="62" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
