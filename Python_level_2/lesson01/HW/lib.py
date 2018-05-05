@@ -1,7 +1,6 @@
 import json
 import socket
 import time
-import re
 import argparse
 import logging
 import ipaddress
@@ -80,23 +79,22 @@ class CServer(CBase):
         print('Confirmation sent.')
 
 
-
 def is_host_correct(host):
     try:
         ipaddress.ip_address(host)
     except Exception:
-        raise print('IP-addres is not correct!')
+        raise argparse.ArgumentTypeError('IP-addres is not correct!')
     else:
         return host
 
 
-
 def is_port_correct(port):
-    int_port = int(port)
-    if 1024 <= int_port <= 65535:
-        return int_port
+    try:
+        int_port = int(port)
+    except Exception:
+        raise argparse.ArgumentTypeError('TCP-port must be Integer and 1024 <= TCP-port <= 65535')
     else:
-        raise argparse.ArgumentTypeError('1024 <= TCP-port <= 65535')
-
-
-# socket.in()
+        if 1024 <= int_port <= 65535:
+            return int_port
+        else:
+            raise argparse.ArgumentTypeError('1024 <= TCP-port <= 65535')

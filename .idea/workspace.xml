@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5707f240-d5eb-4cfb-a69c-e83226751936" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Geekbrains.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Geekbrains.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -19,28 +18,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Geekbrains$openweather.coverage" NAME="openweather Coverage Results" MODIFIED="1522089473549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_1/lesson08/home_work" />
-    <SUITE FILE_PATH="coverage/Geekbrains$client__1_.coverage" NAME="client (1) Coverage Results" MODIFIED="1522352553175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2/lesson01" />
-    <SUITE FILE_PATH="coverage/Geekbrains$Unittests_for_test_Ctest_test_3.coverage" NAME="Unittests for test.Ctest.test_3 Coverage Results" MODIFIED="1522351372431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2" />
     <SUITE FILE_PATH="coverage/Geekbrains$lesson02.coverage" NAME="lesson02 Coverage Results" MODIFIED="1522956104358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2/lesson02" />
-    <SUITE FILE_PATH="coverage/Geekbrains$socket.coverage" NAME="socket Coverage Results" MODIFIED="1524063218784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
     <SUITE FILE_PATH="coverage/Geekbrains$presence.coverage" NAME="presence Coverage Results" MODIFIED="1523984051339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2/lesson01/HW" />
-    <SUITE FILE_PATH="coverage/Geekbrains$server.coverage" NAME="server Coverage Results" MODIFIED="1525508844177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2/lesson01/HW" />
-    <SUITE FILE_PATH="coverage/Geekbrains$lib.coverage" NAME="lib Coverage Results" MODIFIED="1524070762724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2/lesson01/HW" />
+    <SUITE FILE_PATH="coverage/Geekbrains$client.coverage" NAME="client Coverage Results" MODIFIED="1525510829904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2/lesson01/HW" />
+    <SUITE FILE_PATH="coverage/Geekbrains$Unittests_for_test_Ctest_test_3.coverage" NAME="Unittests for test.Ctest.test_3 Coverage Results" MODIFIED="1522351372431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2" />
     <SUITE FILE_PATH="coverage/Geekbrains$server__1_.coverage" NAME="server (1) Coverage Results" MODIFIED="1522352541209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2/lesson01" />
     <SUITE FILE_PATH="coverage/Geekbrains$code.coverage" NAME="code Coverage Results" MODIFIED="1523561585556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2/lesson03" />
-    <SUITE FILE_PATH="coverage/Geekbrains$client.coverage" NAME="client Coverage Results" MODIFIED="1525449596525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2/lesson01/HW" />
+    <SUITE FILE_PATH="coverage/Geekbrains$openweather.coverage" NAME="openweather Coverage Results" MODIFIED="1522089473549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_1/lesson08/home_work" />
+    <SUITE FILE_PATH="coverage/Geekbrains$socket.coverage" NAME="socket Coverage Results" MODIFIED="1524063218784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+    <SUITE FILE_PATH="coverage/Geekbrains$server.coverage" NAME="server Coverage Results" MODIFIED="1525511105195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2/lesson01/HW" />
+    <SUITE FILE_PATH="coverage/Geekbrains$client__1_.coverage" NAME="client (1) Coverage Results" MODIFIED="1522352553175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2/lesson01" />
+    <SUITE FILE_PATH="coverage/Geekbrains$lib.coverage" NAME="lib Coverage Results" MODIFIED="1524070762724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_level_2/lesson01/HW" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Geekbrains" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="lib.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/lib.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="87" column="14" selection-start-line="87" selection-start-column="14" selection-end-line="87" selection-end-column="14" />
+            <state relative-caret-position="242">
+              <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -48,19 +47,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_socket.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1071883310/_socket.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1108">
-              <caret line="570" column="14" lean-forward="true" selection-start-line="570" selection-start-column="14" selection-end-line="570" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="HW_Python2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/HW_Python2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
+            <state relative-caret-position="450">
               <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
@@ -69,8 +59,8 @@
       <file leaf-file-name="client.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/client.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="195">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="e#24#39#0" expanded="true" />
               </folding>
@@ -81,7 +71,7 @@
       <file leaf-file-name="server.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="225">
               <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#24#39#0" expanded="true" />
@@ -174,44 +164,13 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Geekbrains" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Geekbrains" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Geekbrains" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Geekbrains" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_level_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Geekbrains" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Geekbrains" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_level_2" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Geekbrains" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Geekbrains" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_level_2" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson01" type="462c0819:PsiDirectoryNode" />
-              <item name="HW" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -403,22 +362,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-30" width="1366" height="798" extended-state="6" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.4949785" weight="0.32935324" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50732064" side_tool="true" weight="0.35610464" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49267936" weight="0.3548387" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4878049" weight="0.34626865" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49267936" weight="0.35422885" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32753623" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4878049" weight="0.3463768" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="6" sideWeight="0.4978701" visible="true" weight="0.32463768" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="6" sideWeight="0.4978701" visible="true" weight="0.3243781" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49925038" weight="0.24015151" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.50074965" side_tool="true" weight="0.28843337" />
-      <window_info id="Favorites" order="2" sideWeight="0.50074965" side_tool="true" weight="0.28863636" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" sideWeight="0.50074965" side_tool="true" weight="0.28863636" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -432,25 +392,25 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" sideWeight="0.50074965" side_tool="true" weight="0.28863636" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49925038" weight="0.2284041" />
       <window_info id="Structure" order="1" sideWeight="0.50074965" side_tool="true" weight="0.28863636" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.4949785" weight="0.32935324" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49267936" visible="true" weight="0.35610464" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4878049" weight="0.33613446" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3283582" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.4978701" weight="0.3277311" />
       <window_info active="true" anchor="bottom" id="Event Log" order="8" sideWeight="0.50732064" side_tool="true" visible="true" weight="0.35610464" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49267936" visible="true" weight="0.35610464" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3283582" />
+      <window_info id="Favorites" order="2" sideWeight="0.50074965" side_tool="true" weight="0.28863636" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -712,33 +672,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/HW_Python2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1071883310/_socket.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1108">
-          <caret line="570" column="14" lean-forward="true" selection-start-line="570" selection-start-column="14" selection-end-line="570" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#24#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1071883310/_socket.py" />
     <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="225">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#24#39#0" expanded="true" />
@@ -746,10 +683,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#24#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/HW_Python2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Python_level_2/lesson01/HW/lib.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="87" column="14" selection-start-line="87" selection-start-column="14" selection-end-line="87" selection-end-column="14" />
+        <state relative-caret-position="242">
+          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
