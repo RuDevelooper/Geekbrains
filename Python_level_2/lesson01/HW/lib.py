@@ -4,6 +4,7 @@ import time
 import re
 import argparse
 import logging
+import ipaddress
 
 
 class CBase:
@@ -81,10 +82,13 @@ class CServer(CBase):
 
 
 def is_host_correct(host):
-    if not re.match('[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}', host):
-        raise argparse.ArgumentTypeError('IP-addres is not correct!')
+    try:
+        ipaddress.ip_address(host)
+    except Exception:
+        raise print('IP-addres is not correct!')
     else:
         return host
+
 
 
 def is_port_correct(port):
@@ -93,3 +97,6 @@ def is_port_correct(port):
         return int_port
     else:
         raise argparse.ArgumentTypeError('1024 <= TCP-port <= 65535')
+
+
+# socket.in()
