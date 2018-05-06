@@ -1,13 +1,24 @@
+#!/usr/bin/env python3
+
 import json
 import socket
 import time
 import argparse
-import logging
 import ipaddress
+# import log_config
+import logging
 
+
+# from log_config import logger
+from log_config import log
+
+logger = logging.getLogger('app')
+
+logger.info('test message')
 
 class CBase:
 
+    @log
     def __init__(self, sock):
         self.__sock = sock
 
@@ -78,7 +89,7 @@ class CServer(CBase):
         self.send(confirm_missage)
         print('Confirmation sent.')
 
-
+@log
 def is_host_correct(host):
     try:
         ipaddress.ip_address(host)
@@ -87,7 +98,7 @@ def is_host_correct(host):
     else:
         return host
 
-
+@log
 def is_port_correct(port):
     try:
         int_port = int(port)
