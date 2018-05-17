@@ -39,23 +39,3 @@ def log(func):
         return func(*args)
 
     return wrap
-
-
-#
-#
-# def foo():
-#     print "I am foo, calling bar:"
-#     bar()
-#
-# def bar():
-#     print "I am bar, calling baz:"
-#     baz()
-#
-# def baz():
-#     print "I am baz:"
-#     caller = sys._getframe(1).f_code.co_name
-#     callers_caller = sys._getframe(2).f_code.co_name
-#     print "I was called from", caller
-#     print caller, "was called from", callers_caller
-#
-# foo()
