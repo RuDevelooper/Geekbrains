@@ -5,34 +5,33 @@ import socket
 import time
 import argparse
 import ipaddress
-# import log_config
 import logging
-
-
-# from log_config import logger
 from log_config import log
 
 logger = logging.getLogger('app')
 
-logger.info('test message')
 
 class CBase:
 
-    @log
     def __init__(self, sock):
         self.__sock = sock
 
+    @log
     def send(self, data):
         data_json = json.dumps(data)
         data_buf = data_json.encode()
         self.__sock.send(data_buf)
         print('Send:', data)
+        logger.info('{0} sending {1} to {2[0]}, port: {2[1]}'
+                    .format(self.__class__.__name__, data, self.__sock.getsockname()))
 
+    @log
     def recv(self):
         data_buf = self.__sock.recv(1024)
         data_json = data_buf.decode()
         data = json.loads(data_json)
-
+        logger.info('{0} accepting {1} from {2[0]}, port: {2[1]}'
+                    .format(self.__class__.__name__, data, self.__sock.getsockname()))
         return data
 
 
@@ -89,6 +88,7 @@ class CServer(CBase):
         self.send(confirm_missage)
         print('Confirmation sent.')
 
+
 @log
 def is_host_correct(host):
     try:
@@ -97,6 +97,7 @@ def is_host_correct(host):
         raise argparse.ArgumentTypeError('IP-addres is not correct!')
     else:
         return host
+
 
 @log
 def is_port_correct(port):

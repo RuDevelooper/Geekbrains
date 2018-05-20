@@ -28,14 +28,15 @@ hand.setLevel(logging.INFO)
 
 def log(func):
     name = func.__name__
-    call = func.__call__
-    print(dir(func))
-    logger.info(name)
-    logger.info(call)
+    # print(dir(func))
+    # logger.info(name)
+    # logger.info(call)
     caller = sys._getframe(1).f_code.co_name
 
     def wrap(*args, **kwargs):
         logger.info('Обращение к %s от %s с аргументами %s' % (name, caller, args))
+        # logger.info(name)
+        # logger.info(func.__call__)
         return func(*args)
 
     return wrap
